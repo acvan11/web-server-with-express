@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/acvan11/web-server-with-express#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "hbs": "^4.0.4",
+    "nodemon": "^1.19.0"
   }
 }
